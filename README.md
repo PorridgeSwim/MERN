@@ -1,2 +1,2 @@
 # MERN
-- [Blog](https://github.com/PorridgeSwim/blog)https://github.com/PorridgeSwim/blog)
+- [Blog](https://github.com/PorridgeSwim/blog)
